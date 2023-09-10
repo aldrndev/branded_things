@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Baju Mahal",
+    "description": "Baju ini sangat mahal dan berharga",
+    "price": 2000000,
+    "stock": 1,
+    "imgUrl": "https://ds393qgzrxwzn.cloudfront.net/resize/m400x400/cat1/img/images/0/m5T8ceMIaT.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Celana Mahal",
+    "description": "Celana ini sangat mahal dan berharga",
+    "price": 3000000,
+    "stock": 1,
+    "imgUrl": "https://ds393qgzrxwzn.cloudfront.net/resize/m400x400/cat1/img/images/0/m5T8ceMIaT.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  }
+]
